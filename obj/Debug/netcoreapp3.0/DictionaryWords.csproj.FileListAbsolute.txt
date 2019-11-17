@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/obj/Debug/netcoreapp3.0/DictionaryWords.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/obj/Debug/netcoreapp3.0/DictionaryWords.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/obj/Debug/netcoreapp3.0/DictionaryWords.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/bin/Debug/netcoreapp3.0/DictionaryWords
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/bin/Debug/netcoreapp3.0/DictionaryWords.deps.json
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/bin/Debug/netcoreapp3.0/DictionaryWords.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/bin/Debug/netcoreapp3.0/DictionaryWords.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/bin/Debug/netcoreapp3.0/DictionaryWords.dll
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/bin/Debug/netcoreapp3.0/DictionaryWords.pdb
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/obj/Debug/netcoreapp3.0/DictionaryWords.dll
+/Users/Heidi/workspace/CSharpDemos/DictionaryWords/obj/Debug/netcoreapp3.0/DictionaryWords.pdb
